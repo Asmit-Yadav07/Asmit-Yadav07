@@ -1,131 +1,135 @@
 <div align="center">
 
-# 👑 ASMIT YADAV
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:111111,50:2b2b2b,100:FFD700&text=ASMIT%20YADAV&fontSize=60&fontColor=FFD700&fontAlignY=35&desc=👑%20CONQUEROR%20TIER%20FULL%20STACK%20ENGINEER%20👑&descAlignY=55&animation=fadeIn"/>
 
-### 🪂 CONQUEROR TIER • FULL STACK MERN DEVELOPER • SERVER: PRODUCTION
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&lines=CONNECTING+TO+MATCH...;PLAYER+DETECTED:+ASMIT+YADAV;ROLE:+FULL+STACK+ASSAULT;SERVER:+PRODUCTION;MISSION:+BUILD.+DEPLOY.+DOMINATE.;WINNER+WINNER+PRODUCTION+DINNER."/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=PLAYER+CONNECTED...;WELCOME+TO+THE+BATTLEGROUNDS;CONQUEROR+TIER+DEVELOPER;BUILD.+DEPLOY.+DOMINATE.;WINNER+WINNER+PRODUCTION+DINNER." />
+</div>
 
-<br>
+```text
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                     👑 CONQUEROR COMMAND TERMINAL 👑                  ║
+║                                                                       ║
+║  PLAYER ID      : Asmit-Yadav07                                      ║
+║  PLAYER NAME    : ASMIT YADAV                                        ║
+║  RANK           : CONQUEROR                                          ║
+║  CLASS          : FULL STACK ASSAULT                                 ║
+║  SPECIALIZATION : MERN STACK                                         ║
+║  REGION         : INDIA                                              ║
+║  STATUS         : 🟢 ONLINE                                          ║
+║                                                                       ║
+║  MOTTO          : "I DON'T FEAR BUGS. I ELIMINATE THEM."             ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://img.shields.io/badge/RANK-CONQUEROR-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ROLE-FULL_STACK_ASSAULT-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-IN_MATCH-success?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Asmit-Yadav07&label=SPECTATORS&style=for-the-badge&color=blueviolet"/>
+<div align="center">
+
+![](https://img.shields.io/badge/👑_CONQUEROR-FFD700?style=for-the-badge\&labelColor=111111)
+![](https://img.shields.io/badge/⚔️_FULL_STACK_ASSAULT-black?style=for-the-badge)
+![](https://img.shields.io/badge/🔥_SERVER-PRODUCTION-success?style=for-the-badge)
+![](https://img.shields.io/badge/🟢_STATUS-IN_MATCH-green?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🎮 PLAYER DOSSIER
+# 🎖 PLAYER STATS
 
-```cpp
-class PlayerProfile {
-    string playerName      = "Asmit Yadav";
-    string username        = "Asmit-Yadav07";
-    string rank            = "Conqueror";
-    string classType       = "Full Stack Assault";
-    string specialization  = "MERN Stack";
-    string server          = "Production";
-    string currentMission  = "Building scalable systems";
-    bool online            = true;
-};
+```text
+K/D RATIO             : 128+
+BUGS ELIMINATED       : 10,000+
+PROJECTS COMPLETED    : 20+
+API MISSIONS          : 25+
+MATCHES PLAYED        : ∞
+CHICKEN DINNERS       : 20+
+SURVIVAL TIME         : STILL GRINDING
 ```
 
 ---
 
-# 🎒 LOADOUT
+# 🔫 LOADOUT
 
-## 🔫 Primary Weapons
+## PRIMARY WEAPONS
 
-| Weapon   | Ability    |
-| -------- | ---------- |
-| 🔥 AKM   | Node.js    |
-| ⚡ M416   | React.js   |
-| 🎯 AWM   | MongoDB    |
-| 💥 Groza | Express.js |
+| Weapon   | Assigned Skill |
+| -------- | -------------- |
+| 🔥 AKM   | Node.js        |
+| ⚡ M416   | React.js       |
+| 🎯 AWM   | MongoDB        |
+| 💥 Groza | Express.js     |
 
----
+## ATTACHMENTS
 
-## 🎯 Tactical Equipment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,tailwind,git,github,postman,mongodb,nodejs,react,express"/>
+</p>
+
+## AIRDROP LOOT
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=redis,docker,kubernetes,aws"/>
+</p>
 
 ```text
-🛡 JWT Authentication
-🛡 REST APIs
-🛡 Tailwind CSS
-🛡 Git & GitHub
-🛡 Cloudinary
-🛡 Postman
+📦 Redis Cache Expansion Pack
+📦 BullMQ Background Worker DLC
+📦 Docker Container Bundle
+📦 Kubernetes Ranked Mode
+📦 AWS Cloud Access Pass
 ```
 
 ---
 
-## 📦 AIRDROP LOOT (COMING SOON)
+# 📦 DEPLOYMENT HISTORY
 
 ```text
-📦 Redis
-📦 BullMQ
-📦 Docker
-📦 Kubernetes
-📦 AWS
-📦 Microservices
+╔════════════════════════════════════════════════════╗
+║ OPERATION SHORTSTRIKE                             ║
+║ TYPE      : URL Intelligence Platform             ║
+║ STATUS    : DEPLOYED                              ║
+║ REWARDS   : Analytics • Redis • Queue Ready       ║
+║ RESULT    : MISSION SUCCESSFUL                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
----
-
-# 🏆 DEPLOYMENT HISTORY
-
-## 📦 OPERATION SHORTSTRIKE
-
 ```text
-MISSION TYPE : URL Intelligence System
-STATUS       : DEPLOYED
-RESULT       : SUCCESS
-REWARDS      : Analytics • Caching • Queue Architecture
+╔════════════════════════════════════════════════════╗
+║ OPERATION STREAMFORGE                             ║
+║ TYPE      : Video Streaming Backend               ║
+║ STATUS    : DEPLOYED                              ║
+║ REWARDS   : Uploads • Auth • Media Delivery       ║
+║ RESULT    : MISSION SUCCESSFUL                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
----
-
-## 📦 OPERATION STREAMFORGE
-
 ```text
-MISSION TYPE : Video Streaming Backend
-STATUS       : DEPLOYED
-RESULT       : SUCCESS
-REWARDS      : Authentication • Uploads • Media Delivery
+╔════════════════════════════════════════════════════╗
+║ OPERATION MERCHANT ROYALE                         ║
+║ TYPE      : Full Stack E-Commerce Platform        ║
+║ STATUS    : ACTIVE DEPLOYMENT                     ║
+║ REWARDS   : Orders • Payments • Sellers           ║
+║ RESULT    : SHIPPING TO PRODUCTION                ║
+╚════════════════════════════════════════════════════╝
 ```
 
----
-
-## 📦 OPERATION MERCHANT ROYALE
-
 ```text
-MISSION TYPE : E-Commerce Infrastructure
-STATUS       : ACTIVE
-RESULT       : SHIPPING
-REWARDS      : Products • Orders • Payments • Sellers
+╔════════════════════════════════════════════════════╗
+║ OPERATION SOCIAL PULSE                            ║
+║ TYPE      : Instagram Inspired Platform           ║
+║ STATUS    : DEPLOYED                              ║
+║ RESULT    : MISSION SUCCESSFUL                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
----
-
-## 📦 OPERATION SOCIAL PULSE
-
 ```text
-MISSION TYPE : Social Platform Interface
-STATUS       : DEPLOYED
-RESULT       : SUCCESS
-REWARDS      : Responsive UI • Tailwind CSS
-```
-
----
-
-## 📦 OPERATION MELODY DROP
-
-```text
-MISSION TYPE : Music Streaming Experience
-STATUS       : DEPLOYED
-RESULT       : SUCCESS
-REWARDS      : Audio Handling • Dynamic UI
+╔════════════════════════════════════════════════════╗
+║ OPERATION MELODY DROP                             ║
+║ TYPE      : Spotify Inspired Music Platform       ║
+║ STATUS    : DEPLOYED                              ║
+║ RESULT    : MISSION SUCCESSFUL                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -133,60 +137,48 @@ REWARDS      : Audio Handling • Dynamic UI
 # 🚨 CURRENT MISSIONS
 
 ```text
-🎯 Redis Integration           [███████░░░] 70%
-🎯 BullMQ Workers              [██████░░░░] 60%
-🎯 Docker                      [█████░░░░░] 50%
-🎯 Kubernetes                  [███░░░░░░░] 30%
-🎯 Cloud Deployment            [██████░░░░] 65%
+Redis Integration         ████████░░ 80%
+BullMQ Workers            ███████░░░ 70%
+Docker Deployment         █████░░░░░ 50%
+Kubernetes                ███░░░░░░░ 30%
+Cloud Architecture        ██████░░░░ 60%
+System Design             ████████░░ 80%
 ```
 
 ---
 
-# ☠️ KILL FEED
+# ☠️ LIVE KILL FEED
 
 ```text
-[12:03]
-AsmitYadav07 eliminated JWT Error.
-
-[12:41]
-AsmitYadav07 eliminated CORS Monster.
-
-[13:12]
-AsmitYadav07 eliminated Memory Leak.
-
-[13:56]
-AsmitYadav07 eliminated N+1 Query.
-
-[14:28]
-AsmitYadav07 eliminated Production Bug.
-
-[15:02]
-Winner Winner Production Dinner.
+[12:04] AsmitYadav07 eliminated JWT Error
+[12:18] AsmitYadav07 eliminated CORS Monster
+[12:41] AsmitYadav07 eliminated Memory Leak
+[13:03] AsmitYadav07 eliminated N+1 Query
+[13:22] AsmitYadav07 eliminated Production Bug
+[13:57] Winner Winner Production Dinner
 ```
 
 ---
 
-# 📊 MATCH STATISTICS
+# 🏅 RANK PROGRESSION
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asmit-Yadav07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Yadav07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit-Yadav07&theme=tokyonight&hide_border=true"/>
-</p>
+```text
+BRONZE ─ SILVER ─ GOLD ─ ACE ─ 👑 CONQUEROR
+  ✓        ✓        ✓      ✓        CURRENT
+```
 
 ---
 
-# 🏅 ACHIEVEMENTS UNLOCKED
+# 📊 BATTLE ANALYTICS
 
-🏆 MERN Stack Warrior
-🏆 Backend Explorer
-🏆 API Architect
-🏆 Authentication Specialist
-🏆 Database Guardian
-🏆 Responsive Design Expert
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Asmit-Yadav07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Yadav07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit-Yadav07&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -198,41 +190,22 @@ Winner Winner Production Dinner.
 
 ---
 
-# 📡 SQUAD CHAT
-
 ```text
-Squad Leader:
-Need more RAM.
+═══════════════════════════════════════════════════════
+READY TO JOIN THE SQUAD?
+═══════════════════════════════════════════════════════
 
-Squad:
-Enemy spotted.
+▶ PORTFOLIO
+▶ LINKEDIN
+▶ RESUME
+▶ EMAIL
 
-Squad Leader:
-What enemy?
+═══════════════════════════════════════════════════════
 
-Squad:
-Production bug.
+🍗 WINNER WINNER PRODUCTION DINNER 🍗
 
-Squad Leader:
-Push deployment.
+NEXT TARGET:
+👑 LEGENDARY BACKEND ENGINEER
+
+═══════════════════════════════════════════════════════
 ```
-
----
-
-<div align="center">
-
-# 🍗 WINNER WINNER PRODUCTION DINNER 🍗
-
-```text
-MATCH RESULT     : VICTORY
-SURVIVAL TIME    : ∞
-BUGS ELIMINATED  : MANY
-PROJECTS BUILT   : CONTINUING
-NEXT OBJECTIVE   : LEGENDARY ENGINEER
-```
-
-### "The zone may shrink, but the grind never stops."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</div>
