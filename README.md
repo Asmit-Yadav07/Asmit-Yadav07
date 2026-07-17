@@ -1,135 +1,192 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=ASMIT%20YADAV&fontAlign=50&fontAlignY=40&fontSize=60&desc=CONQUEROR%20TIER%20FULL%20STACK%20DEVELOPER&descAlign=50&descAlignY=60"/>
+# 👑 ASMIT YADAV
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=F5B041&center=true&vCenter=true&width=900&lines=🪂+Entering+Erangel...;🎮+BGMI+Conqueror+Tier+Developer;⚔️+Full+Stack+MERN+Warrior;🚀+Building+Scalable+Applications;🔥+Winner+Winner+Production+Dinner"/>
+### 🪂 CONQUEROR TIER • FULL STACK MERN DEVELOPER • SERVER: PRODUCTION
 
-<p>
-<img src="https://img.shields.io/badge/🏆_RANK-CONQUEROR-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_ROLE-FULL_STACK_ASSAULTER-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔥_STATUS-IN_MATCH-success?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Asmit-Yadav07&label=Spectators&style=for-the-badge&color=blueviolet"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=PLAYER+CONNECTED...;WELCOME+TO+THE+BATTLEGROUNDS;CONQUEROR+TIER+DEVELOPER;BUILD.+DEPLOY.+DOMINATE.;WINNER+WINNER+PRODUCTION+DINNER." />
+
+<br>
+
+<img src="https://img.shields.io/badge/RANK-CONQUEROR-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROLE-FULL_STACK_ASSAULT-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-IN_MATCH-success?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Asmit-Yadav07&label=SPECTATORS&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 🪪 PLAYER PROFILE
+# 🎮 PLAYER DOSSIER
 
-```text
-╔════════════════════════════════════════════╗
-║ PLAYER NAME    : ASMIT YADAV              ║
-║ IGN            : Asmit-Yadav07            ║
-║ RANK           : CONQUEROR                ║
-║ CLASS          : FULL STACK DEVELOPER     ║
-║ SPECIALIZATION : MERN STACK               ║
-║ SERVER         : PRODUCTION               ║
-║ STATUS         : 🟢 ONLINE                ║
-╚════════════════════════════════════════════╝
+```cpp
+class PlayerProfile {
+    string playerName      = "Asmit Yadav";
+    string username        = "Asmit-Yadav07";
+    string rank            = "Conqueror";
+    string classType       = "Full Stack Assault";
+    string specialization  = "MERN Stack";
+    string server          = "Production";
+    string currentMission  = "Building scalable systems";
+    bool online            = true;
+};
 ```
 
 ---
 
 # 🎒 LOADOUT
 
-### 🔫 Primary Weapons
+## 🔫 Primary Weapons
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
-</p>
-
-### 🧰 Attachments
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,tailwind,git,github,postman,cloudinary"/>
-</p>
-
-### 📦 Airdrop Loot (Unlocking Soon)
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=redis,docker,kubernetes,aws"/>
-</p>
+| Weapon   | Ability    |
+| -------- | ---------- |
+| 🔥 AKM   | Node.js    |
+| ⚡ M416   | React.js   |
+| 🎯 AWM   | MongoDB    |
+| 💥 Groza | Express.js |
 
 ---
 
-# 🗺️ ACTIVE MISSIONS
+## 🎯 Tactical Equipment
 
 ```text
-🎯 Redis & BullMQ Integration
-██████░░░░ 60%
-
-🎯 System Design Mastery
-███████░░░ 70%
-
-🎯 Cloud Deployment
-█████░░░░░ 50%
-
-🎯 Open Source Contribution
-██████░░░░ 60%
+🛡 JWT Authentication
+🛡 REST APIs
+🛡 Tailwind CSS
+🛡 Git & GitHub
+🛡 Cloudinary
+🛡 Postman
 ```
 
 ---
 
-# 📦 AIRDROP CRATES
-
-## 📦 Operation ShortStrike
-
-⚡ Scalable URL Shortener with analytics, caching architecture and queue-ready infrastructure.
-
-## 📦 Operation StreamForge
-
-🎥 Video Streaming Backend with uploads, authentication, playlists and media delivery.
-
-## 📦 Operation Merchant Royale
-
-🛒 Full Stack E-Commerce Platform with authentication, products, cart and order management.
-
-## 📦 Operation Melody
-
-🎵 Spotify-inspired music experience built with modern frontend technologies.
-
-## 📦 Operation Social Pulse
-
-📸 Instagram-inspired responsive social media interface.
-
----
-
-# ☠️ ELIMINATIONS
+## 📦 AIRDROP LOOT (COMING SOON)
 
 ```text
-JWT Errors             ██████████ 100%
-Authentication Bugs    ██████████ 100%
-MongoDB Issues         █████████░  90%
-CORS Monsters          ██████████ 100%
-Responsive Bugs        █████████░  90%
-Production Errors      ███████░░░  70%
+📦 Redis
+📦 BullMQ
+📦 Docker
+📦 Kubernetes
+📦 AWS
+📦 Microservices
 ```
 
 ---
 
-# 📊 BATTLE STATISTICS
+# 🏆 DEPLOYMENT HISTORY
 
-<div align="center">
+## 📦 OPERATION SHORTSTRIKE
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Asmit-Yadav07&show_icons=true&theme=tokyonight&hide_border=true"/>
+```text
+MISSION TYPE : URL Intelligence System
+STATUS       : DEPLOYED
+RESULT       : SUCCESS
+REWARDS      : Analytics • Caching • Queue Architecture
+```
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Yadav07&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit-Yadav07&theme=tokyonight&hide_border=true"/>
+## 📦 OPERATION STREAMFORGE
 
-</div>
+```text
+MISSION TYPE : Video Streaming Backend
+STATUS       : DEPLOYED
+RESULT       : SUCCESS
+REWARDS      : Authentication • Uploads • Media Delivery
+```
+
+---
+
+## 📦 OPERATION MERCHANT ROYALE
+
+```text
+MISSION TYPE : E-Commerce Infrastructure
+STATUS       : ACTIVE
+RESULT       : SHIPPING
+REWARDS      : Products • Orders • Payments • Sellers
+```
+
+---
+
+## 📦 OPERATION SOCIAL PULSE
+
+```text
+MISSION TYPE : Social Platform Interface
+STATUS       : DEPLOYED
+RESULT       : SUCCESS
+REWARDS      : Responsive UI • Tailwind CSS
+```
+
+---
+
+## 📦 OPERATION MELODY DROP
+
+```text
+MISSION TYPE : Music Streaming Experience
+STATUS       : DEPLOYED
+RESULT       : SUCCESS
+REWARDS      : Audio Handling • Dynamic UI
+```
+
+---
+
+# 🚨 CURRENT MISSIONS
+
+```text
+🎯 Redis Integration           [███████░░░] 70%
+🎯 BullMQ Workers              [██████░░░░] 60%
+🎯 Docker                      [█████░░░░░] 50%
+🎯 Kubernetes                  [███░░░░░░░] 30%
+🎯 Cloud Deployment            [██████░░░░] 65%
+```
+
+---
+
+# ☠️ KILL FEED
+
+```text
+[12:03]
+AsmitYadav07 eliminated JWT Error.
+
+[12:41]
+AsmitYadav07 eliminated CORS Monster.
+
+[13:12]
+AsmitYadav07 eliminated Memory Leak.
+
+[13:56]
+AsmitYadav07 eliminated N+1 Query.
+
+[14:28]
+AsmitYadav07 eliminated Production Bug.
+
+[15:02]
+Winner Winner Production Dinner.
+```
+
+---
+
+# 📊 MATCH STATISTICS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asmit-Yadav07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Yadav07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit-Yadav07&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏅 ACHIEVEMENTS UNLOCKED
 
-🏆 MERN Stack Developer
-🏆 REST API Builder
-🏆 Authentication Specialist
+🏆 MERN Stack Warrior
 🏆 Backend Explorer
-🏆 Responsive UI Crafter
-🏆 Database Warrior
+🏆 API Architect
+🏆 Authentication Specialist
+🏆 Database Guardian
+🏆 Responsive Design Expert
 
 ---
 
@@ -141,39 +198,23 @@ Production Errors      ███████░░░  70%
 
 ---
 
-# 🎙️ SQUAD VOICE CHAT
+# 📡 SQUAD CHAT
 
 ```text
-[Squad]
+Squad Leader:
 Need more RAM.
 
-[Squad]
-Enemy spotted:
-Memory Leak.
+Squad:
+Enemy spotted.
 
-[Squad]
-Deploying to production.
+Squad Leader:
+What enemy?
 
-[Squad]
-Winner Winner Production Dinner.
-```
+Squad:
+Production bug.
 
----
-
-# 🚨 RED ZONE ALERT
-
-```text
-Current Boss Fight:
-
-👹 Redis + BullMQ Integration
-
-███████░░░ 70%
-
-Rewards:
-+ Redis Cache
-+ Background Jobs
-+ Queue Processing
-+ Faster APIs
+Squad Leader:
+Push deployment.
 ```
 
 ---
@@ -182,164 +223,16 @@ Rewards:
 
 # 🍗 WINNER WINNER PRODUCTION DINNER 🍗
 
-### Survived:
-
-✔ Deadlines
-✔ Merge Conflicts
-✔ Production Deployments
-✔ Unexpected Bugs
-✔ Last Minute Requirements
-
-### Next Rank:
-
-👑 Legendary Backend Engineer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=redis,docker,kubernetes,aws"/>
-</p>
-
----
-
-# 🗺️ ACTIVE MISSIONS
-
-```txt
-🎯 Reach DevOps Crown Tier
-██████░░░░░ 60%
-
-🎯 Master Redis & BullMQ
-█████░░░░░░ 50%
-
-🎯 Build Distributed Systems
-████░░░░░░░ 40%
-
-🎯 Open Source Contributions
-███████░░░░ 70%
+```text
+MATCH RESULT     : VICTORY
+SURVIVAL TIME    : ∞
+BUGS ELIMINATED  : MANY
+PROJECTS BUILT   : CONTINUING
+NEXT OBJECTIVE   : LEGENDARY ENGINEER
 ```
-
----
-
-# 🍗 WINNER WINNER CHICKEN DINNERS
-
-## 🏆 OPERATION SHORTSTRIKE
-
-⚡ URL Shortener with Analytics, Redis Caching and Queue Processing.
-
-## 🏆 OPERATION STREAMDROP
-
-🎥 Scalable Video Streaming Backend with Authentication, Uploads and Media Management.
-
-## 🏆 OPERATION MERCHANT ROYALE
-
-🛒 Full Scale E-Commerce Platform with Products, Cart, Orders and Payments.
-
-## 🏆 OPERATION MELODY
-
-🎵 Spotify-inspired Music Platform.
-
-## 🏆 OPERATION SOCIAL CIRCLE
-
-📸 Instagram-inspired Responsive Social Media Interface.
-
----
-
-# ☠️ ELIMINATIONS
-
-```txt
-Authentication Bugs       ██████████ 100%
-JWT Errors                ██████████ 100%
-CORS Issues               ██████████ 100%
-MongoDB Errors            █████████░  90%
-Production Bugs           ███████░░░  70%
-```
-
----
-
-# 📈 PLAYER STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asmit-Yadav07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Yadav07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit-Yadav07&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 ACHIEVEMENTS UNLOCKED
-
-🏆 First MERN Project
-🏆 Authentication Master
-🏆 REST API Builder
-🏆 Responsive UI Specialist
-🏆 Backend Architect Apprentice
-🏆 Database Warrior
-
----
-
-# 🐍 ZONE MOVEMENT TRACKER
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 📡 SQUAD VOICE CHAT
-
-```txt
-🗣️ "Enemies ahead!"        ❌
-🗣️ "Production bug ahead!" ✅
-
-🗣️ "Need ammo!"            ❌
-🗣️ "Need more RAM!"        ✅
-
-🗣️ "Rush the compound!"    ❌
-🗣️ "Push to production!"   ✅
-```
-
----
-
-# 🚨 RED ZONE ALERT
-
-```txt
-Current Boss Fight:
-
-👹 Redis + BullMQ Integration
-
-███████░░░░ 70%
-
-Rewards:
-✔ Faster APIs
-✔ Background Workers
-✔ Scalable Systems
-✔ Legendary Backend Loot
-```
-
----
-
-<div align="center">
-
-# 🪂 FINAL CIRCLE REACHED
-
-### Survived:
-
-✔ Deadlines
-✔ Merge Conflicts
-✔ Production Deployments
-✔ Unexpected Bugs
-✔ Last-Minute Feature Requests
-
-## 🍗 WINNER WINNER CHICKEN DINNER 🍗
 
 ### "The zone may shrink, but the grind never stops."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7B500&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
